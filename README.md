@@ -1,18 +1,10 @@
 # Project UAS
 
-Nama : Hilman Ihza Amrullah
+Nama :Suryana
 
-NIM : 312210310
+NIM : 312210333
 
 Kelas : TI.22.A.3
-
-YouTube : [click here](https://youtu.be/v6Ij5ECjrlU)
-
-# SOAL
-
-## Tugas Projects UAS
-
-![Image](foto/ss.png)
 
 # PEMBAHASAN
 
